@@ -6,7 +6,6 @@ world.run_until_complete()
 大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的软硬兼吃的野生技术宅，也是可爱的男孩子哦
 - 当心*老貮刺螈*
 - English is bad
-- 目前高三在读，时间：🈚️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialSisterYi&count_private=true&theme=cobalt&show_icons=true)
 
