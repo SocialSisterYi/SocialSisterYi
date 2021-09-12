@@ -3,8 +3,8 @@ world.run_until_complete()
 ```
 
 # About
-大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的软硬兼吃的野生技术宅，也是可爱的男孩子哦
-- 高中结束了....
+大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的软硬兼吃的野生技术宅，也是可爱的男孩子哦，关于名字的来历可以[看我博客](https://shakaianee.top/about.html)
+- 专科大一新生
 - 当心*老貮刺螈*
 - English is bad
 
