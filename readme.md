@@ -3,24 +3,40 @@ world.run_until_complete()
 ```
 
 # About
-大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的软硬兼吃的野生技术宅，也是可爱的男孩子哦，关于名字的来历可以[看我博客](https://shakaianee.top/about.html)
-- 专科大一新生
+
+大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的技术宅，也是可爱的男孩子哦，关于名字的来历可以看我[博客](https://shakaianee.top/about.html)
+
+- 砖科大二躺平人
 - 当心*老貮刺螈*
 - English is bad
+- Socialphobia
+
+## Motto
+
+> 给岁月以文明，而不是给文明以岁月。 ——《三体》
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SocialSisterYi&count_private=true&theme=cobalt&show_icons=true)
 
-# Program_Language（按照熟练程度排序）
+# Contact
+
+- Email: [shakaianee@qq.com](mailto:shakaianee@qq.com)
+- BiliBili: [@社会易姐QwQ](https://space.bilibili.com/293793435)
+- Telegram: [@ShakaiAneE](https://t.me/ShakaiAneE)
+
+# Program Language (Sort by proficiency)
+
 - `Python`
-- `C/C艹`
 - `PHP`
-- `JavaScript`
+- `C/C艹`
+- `JavaScript(node.js)`
+- `Java`
 - `Rust`
 - `ASM`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SocialSisterYi&layout=compact)
 
-# Other_Skills
+# Other Skills
+
 - 前端开发：初学，很菜，仅能看懂那种程度`html`+`JavaScript`+`CSS`
 - 数据库：`MySQL` `Sqlite`
 - 电路：`数字电路` `PCB设计` `嵌入式系统设计`
@@ -29,14 +45,13 @@ world.run_until_complete()
 - 音乐制作：`UTAU` `Vocaloid` `FL Studio` `Famitracker`
 
 # Hobbies
+
 - Minecraft
+- 音游
 - 混圈子&水群
 - 东方Project
 - 术力口
 - 视频创作
 - 电子音乐
-- 研究B站api
 - 捡垃圾
 - ~~女装~~
-
-> 编程让我解构世界，开源使我接触社区
