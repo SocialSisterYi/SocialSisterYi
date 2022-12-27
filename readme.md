@@ -11,6 +11,8 @@ world.run_until_complete()
 - English is bad
 - Socialphobia
 
+![skills](https://skillicons.dev/icons?i=ae,androidstudio,arduino,au,bash,c,cpp,css,docker,flask,git,github,html,js,jquery,linux,md,mysql,nginx,ps,php,pr,py,qt,raspberrypi,redis,regex,rust,sqlite,selenium,vim,vscode)
+
 ## Motto
 
 > 给岁月以文明，而不是给文明以岁月。 ——《三体》
