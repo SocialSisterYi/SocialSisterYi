@@ -4,7 +4,7 @@ world.run_until_complete()
 
 # About
 
-大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的技术宅，也是可爱的男孩子哦，关于名字的来历可以看我[博客](https://shakaianee.top/about.html)
+大家好这里是`SocialSisterYi`，可以叫我`易姐`，一位普通的技术宅，也是可爱的男孩子哦，关于名字的来历可以看我[博客](https://shakaianee.top/about)
 
 - 新手社畜人
 - 当心*老貮刺螈*
